@@ -1,0 +1,15 @@
+.fundo{
+    display: flex;
+    width: 300px;
+    height: 200px;
+    background-image: linear-gradient(blue, red, yellow);
+}
+
+.sol{
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    background-image: radial-gradient(white, white, transparent, transparent);
+    margin-inline: auto;
+    margin-top: 160px;
+}

@@ -1,0 +1,7 @@
+.logoRepetidoLateral {
+    width: 100vw;
+    height: 100vh;
+    background-color: blue;
+    background-image: url(/Atividades/Atividade01/assets/images/Logo-Mach.svg);
+    background-repeat: repeat-y;
+}
